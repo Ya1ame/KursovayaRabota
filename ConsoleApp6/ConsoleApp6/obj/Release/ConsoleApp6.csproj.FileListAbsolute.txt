@@ -1,0 +1,8 @@
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.exe.config
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.exe
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.pdb
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.exe
+C:\Users\domas\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.pdb
